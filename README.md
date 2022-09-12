@@ -1,6 +1,6 @@
 # Masterthesis Tom Kleinhapl
 
-Thesis PDF: https://github.com/tiemtom/ma-kleinhapl-tom/MA-Kleinhapl-Tom.pdf
+Thesis PDF: https://github.com/tiemtom/ma-kleinhapl-tom/blob/main/MA-Kleinhapl-Tom.pdf
 
 This repository hosts the thesis along with the code and scripts developed in the accompanying project.
 
